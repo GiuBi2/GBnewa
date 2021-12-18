@@ -1,0 +1,16 @@
+.logo-container {
+	grid-area: logo;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+	border-right: var(--border-menu);
+	border-bottom: var(--border-menu);
+}
+
+.logo-container .logo {
+	color: var(--logo-font-color);
+	font-size: 2.4rem;
+	font-weight: 900;
+}

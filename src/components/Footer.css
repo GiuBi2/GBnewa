@@ -1,0 +1,9 @@
+.footer-container {
+	grid-area: footercontainer;
+	height: 5rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #E7E8EA;
+	padding: 1rem;
+}

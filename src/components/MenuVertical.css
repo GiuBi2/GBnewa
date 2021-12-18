@@ -1,0 +1,24 @@
+/* .menu-vertical-container {
+	grid-area: menuvertical;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	border-right: var(--border-menu);
+} */
+
+.item {
+	height: 6.5rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: #063B2F;
+}
+
+
+/* .text-item {
+	font-weight: 800;
+	text-transform: uppercase;
+	font-size: 2rem;
+} */

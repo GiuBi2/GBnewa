@@ -1,0 +1,6 @@
+.menu-horizontal-container {
+	grid-area: menuhorizontal;
+	border-bottom: var(--border-menu);
+  background-color: #779991;
+  width: 100%;
+}

@@ -1,0 +1,42 @@
+ .details-container {
+	width: 100%;
+	padding: 5rem;
+}
+
+.text {
+	width: 100%;
+	margin: 10rem auto;
+	padding: 0 5rem;
+} 
+
+/* .container {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+	max-width: 60rem;
+	padding: 5rem;
+  background-color: #779991;
+} */
+.titulo{
+  margin-right: 40px;
+  margin-top: 30px;
+  width: 150rem;
+  text-align: center;
+}
+/* .text {
+	width: 60rem;
+	margin: 10rem auto;
+
+} */
+.texto{
+  margin-top: 30px;
+  text-align: center;
+  width: 95rem;
+   margin-left: 25rem;
+}
+.subtitulo{
+   margin-top: 30px;
+  text-align: center;
+  width: 95rem;
+   margin-left: 25rem;
+}

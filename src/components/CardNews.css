@@ -1,0 +1,37 @@
+.card-container {
+	width: 25rem;
+	padding: 5rem;
+  background-color: #779991;
+  margin-top: 40px;
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-bottom: 20px;
+  
+}
+#link{
+font-size: 15px;
+margin-top: 100px;
+}
+#link:hover{
+font-size: 12px;
+color: white;
+}
+
+.autor,
+.dataPublicacao {
+	font-size: 1.1rem;
+	font-weight: 400px;
+	padding: 5px;
+  text-align: center;
+}
+
+.title {
+	color: black;
+	font-size: 2.4rem;
+  text-align: center;
+}
+
+.title h2 {
+	margin: 1.2rem 0 0 0;
+	padding: 0;
+}

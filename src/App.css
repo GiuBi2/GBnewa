@@ -1,0 +1,11 @@
+.grid-container {
+	display: grid;
+	grid-template-areas: 
+	'logo menuhorizontal'
+	'menuvertical newscontainer'
+	'menuvertical footercontainer'
+	;
+	grid-template-columns: 6.5rem 1fr;
+	grid-template-rows: 65px 1fr 65px;
+	min-height: 100vh;
+}
